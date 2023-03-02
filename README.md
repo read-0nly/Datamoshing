@@ -46,4 +46,4 @@ Some of these audio manipulations translate somehow very well onto image manipul
 
 Here's something you can make by Audacity manipulation of a RAW image
 ![image](https://user-images.githubusercontent.com/33932119/222353529-128a6841-a08d-4895-b582-fddbd1de245e.png)
-I imported the image as Unsigned 8-bit, applied an Echo audio effect on the whole stream, re-balanced to only the right channel if I remember correctly, then exported as U-law
+I imported the image as Unsigned 8-bit, applied an Echo audio effect on the whole stream, re-balanced to only the right channel if I remember correctly, then exported as U-law. I like the graininess of it - I think it would make a cool blanket or carpet. If ever I get the loom project off the ground I might give it a shot
