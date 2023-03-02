@@ -36,7 +36,13 @@ Is this the best/only way?
 
 Manifesto aside, the barrier to entry is...  so low man. So low. You can probably make something cool just by opening a bitmap in notepad and deleting  lines at random or entering trash - I've had some success with that method too. But the more you experiment, the more you learn. About media file structures, sure, but about the truth of all this noise at the end of the day - it's all 0s and 1s. It's nothing without context - but it's also just waiting, begging to be reinterpreted through another. 
 
-Throwaway starter project - get Irfanview. Save an image as RAW, keep track of the image dimensions and pixel depth, you'll need it. Open the RAW file in audacity as RAW audio. Whatever version you want, really. Export it as rraw, pick a different encoding. Open in Irfanview.
+Throwaway starter project - get Irfanview. Save an image as RAW, keep track of the image dimensions and pixel depth, you'll need it. Open the RAW file in audacity as RAW audio. Whatever version you want, really. Export it as RAW, pick a different encoding. Open in Irfanview.
+
+Do that again, this time apply echo and export with the same import encoding
+
+Do that again but apply a low-pass, or high-pass filter
+
+Some of these audio manipulations translate somehow very well onto image manipulation, looking exactly how they sound. Wah wah is an odd one, I could never get it to look good.
 
 Here's something you can make by Audacity manipulation of a RAW image
 ![image](https://user-images.githubusercontent.com/33932119/222353529-128a6841-a08d-4895-b582-fddbd1de245e.png)
