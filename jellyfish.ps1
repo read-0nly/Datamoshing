@@ -45,15 +45,3 @@ ffedit -i "
 	start ./result.mp4
 }
 jellymosh
-
-<#
-$remoteCommand =
-@"
-Import-Module ActiveDirectory
-New-ADOrganizationalUnit -name
-"@
- 
-$scriptBlock = [Scriptblock]::Create($remoteCommand)
-
-
-#>
