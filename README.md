@@ -17,6 +17,8 @@ Repo of my moshing resources
 - I-frames are basically full images, all pixel data but compressed, think a jpg
 - P-frames contain some pixel data, but mostly contain motion data where possible. It'll try to generate the next frame by applying motion data to the result of previous motion data applied to the previous I-frame. 
 - This is where the magic happens - by splicing two videos in the sea of P-frames between I-frames, you apply the motion and included pixel data of video 2 to video 1. This causes video 2 to "push through" video 1's last good P-frame, causing that delicious crunchy mosh~
+- Alternatively, duplicate P-frames to over-emphasize motion
+- or delete I-frames to cause a sort of internal corruption where motions get misaligned.
 
 ## Quick start
 
